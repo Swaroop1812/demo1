@@ -3,3 +3,4 @@ rice
 samber
 sweet
 bajji
+curd
